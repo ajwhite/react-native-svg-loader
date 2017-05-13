@@ -1,0 +1,15 @@
+{
+  "name": "react-native-svg-loader",
+  "version": "0.0.1",
+  "description": "SVG file loader for react-native-svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.camelcase": "^4.3.0",
+    "xmldom": "^0.1.27"
+  }
+}
